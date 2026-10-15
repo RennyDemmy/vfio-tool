@@ -1,14 +1,14 @@
-VFIO-Tool: best Linux tool ever made by AI! (Seriously, I made it using AI, but every contrib is welcome!)
+# VFIO-Tool: best Linux tool ever made by AI! (Seriously, I made it using AI, but every contrib is welcome!)
 
 
 
-==== DISTROS TESTED ====
+# ==== DISTROS TESTED ====
 
 Debian (me): worked
 
 Gentoo (me): broke my Gentoo install
 
-==== DEPENDENCIES =====
+# ==== DEPENDENCIES =====
 
 To run this script successfully, your system needs standard GNU core utilities
 (like sed, grep, awk, cat, etc.) which are pre-installed on virtually every
@@ -77,7 +77,7 @@ either dracut or genkernel. The script supports both.
     OR sys-kernel/genkernel
   - Install command:
     sudo emerge --ask sys-apps/pciutils
-    # And one of the following based on your setup:
+    ## And one of the following based on your setup:
     sudo emerge --ask sys-kernel/dracut
     sudo emerge --ask sys-kernel/genkernel
 
