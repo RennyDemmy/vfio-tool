@@ -5,6 +5,7 @@ VFIO-Tool: best Linux tool ever made by AI! (Seriously, I made it using AI, but 
 ==== DISTROS TESTED ====
 
 Debian (me): worked
+
 Gentoo (me): broke my Gentoo install
 
 ==== DEPENDENCIES =====
