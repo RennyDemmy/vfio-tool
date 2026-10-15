@@ -6,7 +6,7 @@
 
 Debian (me): worked
 
-Gentoo (me): broke my Gentoo install on GPU switching (I may be to blame)
+Gentoo (me): broke my Gentoo install on GPU switching (I may be to blame) on a pre-release version
 
 # ==== DEPENDENCIES =====
 
